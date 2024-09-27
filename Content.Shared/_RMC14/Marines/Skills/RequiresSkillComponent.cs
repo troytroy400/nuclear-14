@@ -1,7 +1,7 @@
 ﻿using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
 
-namespace Content.Shared._CM14.Marines.Skills;
+namespace Content.Shared._RMC14.Marines.Skills;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 [Access(typeof(SkillsSystem))]
