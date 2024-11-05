@@ -315,7 +315,7 @@
 - type: entity
   parent: N14DoorWoodSlanted
   id: N14DoorWoodSlantedLockedBronze
-  suffix: Locked, IronKey
+  suffix: Locked, BronzeKey
   components:
   - type: AccessReader
     access: [["BronzeKey"]]
@@ -325,7 +325,7 @@
 - type: entity
   parent: N14DoorMetalBlueSlanted
   id: N14DoorMetalSlantedLockedBronze
-  suffix: Locked, IronKey
+  suffix: Locked, BronzeKey
   components:
   - type: AccessReader
     access: [["BronzeKey"]]
@@ -335,7 +335,7 @@
 - type: entity
   parent: N14DoorMetalBarSlanted
   id: N14DoorCellSlantedLockedBronze
-  suffix: Locked, IronKey
+  suffix: Locked, BronzeKey
   components:
   - type: AccessReader
     access: [["BronzeKey"]]
@@ -346,7 +346,7 @@
 - type: entity
   parent: N14DoorWoodSlanted
   id: N14DoorWoodSlantedLockedBrass
-  suffix: Locked, IronKey
+  suffix: Locked, BrassKey
   components:
   - type: AccessReader
     access: [["BrassKey"]]
@@ -356,7 +356,7 @@
 - type: entity
   parent: N14DoorMetalBlueSlanted
   id: N14DoorMetalSlantedLockedBrass
-  suffix: Locked, IronKey
+  suffix: Locked, BrassKey
   components:
   - type: AccessReader
     access: [["BrassKey"]]
@@ -366,7 +366,7 @@
 - type: entity
   parent: N14DoorMetalBarSlanted
   id: N14DoorCellSlantedLockedBrass
-  suffix: Locked, IronKey
+  suffix: Locked, BrassKey
   components:
   - type: AccessReader
     access: [["BrassKey"]]
@@ -377,7 +377,7 @@
 - type: entity
   parent: N14DoorWoodSlanted
   id: N14DoorWoodSlantedLockedSilver
-  suffix: Locked, IronKey
+  suffix: Locked, SilverKey
   components:
   - type: AccessReader
     access: [["SilverKey"]]
@@ -387,7 +387,7 @@
 - type: entity
   parent: N14DoorMetalBlueSlanted
   id: N14DoorMetalSlantedLockedSilver
-  suffix: Locked, IronKey
+  suffix: Locked, SilverKey
   components:
   - type: AccessReader
     access: [["SilverKey"]]
@@ -397,7 +397,7 @@
 - type: entity
   parent: N14DoorMetalBarSlanted
   id: N14DoorCellSlantedLockedSilver
-  suffix: Locked, IronKey
+  suffix: Locked, SilverKey
   components:
   - type: AccessReader
     access: [["SilverKey"]]
